@@ -1,0 +1,16 @@
+HDD
+1TB
+Диск С
+User1
+SSD
+256GB
+Диск D
+User2
+USB
+8GB
+Съёмный носитель
+User3
+CD
+512KB
+Съёмный носитель 2
+User4
